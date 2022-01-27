@@ -1,0 +1,2 @@
+# Datascience-HamoyeAI
+Internship
